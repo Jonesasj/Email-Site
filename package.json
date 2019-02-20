@@ -1,0 +1,26 @@
+{
+  "name": "email-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonesasj/Email-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonesasj/Email-Site/issues"
+  },
+  "homepage": "https://github.com/Jonesasj/Email-Site#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^6.0.0",
+    "pug": "^2.0.3",
+    "sqlite3": "^4.0.6"
+  }
+}
